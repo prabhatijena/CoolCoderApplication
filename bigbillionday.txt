@@ -1,3 +1,3 @@
-iphone 15 = 5000
+iphone 15 = 50000
 
 samsung s24 ultra = 100000
